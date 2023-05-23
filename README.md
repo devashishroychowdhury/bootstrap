@@ -44,7 +44,7 @@ Our default branch is for development of our Bootstrap 5 release. Head to the [`
 
 ## Quick start
 
-Several quick start options are available:
+To help you get started the quick start options are available:
 
 - [Download the latest release](https://github.com/twbs/bootstrap/archive/v5.3.0-alpha3.zip)
 - Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
